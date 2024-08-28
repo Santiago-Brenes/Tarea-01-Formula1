@@ -10,11 +10,15 @@ Los circuitos varían en diseño y dificultad. Algunos son circuitos permanentes
 
 Cada fin de semana de carrera consta de prácticas libres, sesiones de clasificación y la carrera principal. Durante la clasificación, los pilotos compiten para determinar su posición de salida en la carrera. La carrera principal es una competición de alta velocidad que dura un número específico de vueltas alrededor del circuito.
 
+##### Diseño de los Fómula 1 de 2024:
+
 ![Diseño de los Fórmula 1 2024](https://pbs.twimg.com/media/GGaFwKbW4AAzhQU?format=jpg&name=large)
 
 La Fórmula 1 cuenta con diez equipos, cada uno compitiendo con dos pilotos. Estos equipos diseñan, construyen y desarrollan sus propios autos de carreras.
 
 La Fórmula 1 tiene dos campeonatos principales: el Campeonato Mundial de Pilotos y el Campeonato Mundial de Constructores. El piloto y el equipo que acumulan la mayor cantidad de puntos al final de la temporada son declarados campeones mundiales.
+
+##### Pilotos de Fórmula 1 2024:
 
 <p align="center">
   <img src="https://preview.redd.it/our-2024-grid-is-complete-v0-ws9zolabxp3c1.jpeg?width=1080&crop=smart&auto=webp&s=fccd922e4a70ca257cd5d21a219402e9a7edf0d4" alt="Pilotos de Fórmula 1 2024">
@@ -37,8 +41,10 @@ Asignación de puntos:
 
 Desde la temporada 2019, se otorga un _**punto adicional**_ al piloto que registre la _**vuelta rápida de la carrera**_, siempre y cuando termine en el top 10 y no haya recibido sanciones durante la carrera. Si el piloto no cumple con estas condiciones, el punto adicional no será concedido.
 
+##### Calendario de Fórmula 1 2024:
+
 <p align="center">
-  <img src="https://pbs.twimg.com/media/F0RqWXfWAAAcl90?format=jpg&name=large" alt="Calendario Fórmula 1 2024" width="400" heigth="400">
+  <img src="https://pbs.twimg.com/media/F0RqWXfWAAAcl90?format=jpg&name=large" alt="Calendario de Fórmula 1 2024" width="400" heigth="400">
 </p>
 
 #### *Nuevas reglas introducidas para la temporada 2024:*
