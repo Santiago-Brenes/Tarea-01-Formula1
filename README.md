@@ -26,7 +26,7 @@ La Fórmula 1 tiene dos campeonatos principales: el Campeonato Mundial de Piloto
 
 Los pilotos y equipos acumulan puntos en función de su posición final en la carrera. El sistema de puntuación asigna puntos a los primeros diez pilotos que cruzan la línea de meta, con más puntos otorgados al primer lugar.
 
-Asignación de puntos:
+##### Asignación de puntos:
 
 - _Primer clasificado:_ **25 pts**
 - _Segundo clasificado:_ **18 pts**
@@ -47,9 +47,23 @@ Desde la temporada 2019, se otorga un _**punto adicional**_ al piloto que regist
   <img src="https://pbs.twimg.com/media/F0RqWXfWAAAcl90?format=jpg&name=large" alt="Calendario de Fórmula 1 2024" width="400" heigth="400">
 </p>
 
-#### *Nuevas reglas introducidas para la temporada 2024:*
+#### *Reglamentación de Fómula 1:*
 
-- [Regulaciones técnicas en 2024](https://www.formula1.com/en/results/2024/drivers)
+Las reglamentaciones en la Fórmula 1 son un conjunto de reglas y normas establecidas por la FIA (Federación Internacional del Automóvil) que cubren todos los aspectos de la competición. Estas regulaciones se dividen en tres categorías principales:
+
+**1. Reglamentos Técnicos**
+-	Chasis y Aerodinámica
+-	Motor
+-	Peso y Materiales
+
+**2. Reglamentos Deportivos**
+-	Formato de Competencia
+-	Puntuación
+-	Seguridad
+
+**3. Reglamentos Financieros**
+-	Tope Presupuestario
+-	Gastos Permitidos.
 
 ### *Temporada 2024*
 
@@ -95,9 +109,9 @@ Mercedes, que venía con buen ritmo antes de la pausa veraniega, tuvo un fin de 
 
 La temporada 2024 sigue abierta, con McLaren como un serio contendiente, Red Bull en una posición más vulnerable y Mercedes tratando de mantenerse a flote. El próximo Gran Premio en Italia en el _Autodromo Internazionale di Monza_ será clave para ver cómo se definen las cosas en las próximas semanas​.
 
-### Referencias
+#### Referencias
 
-- [Página oficial de la Fórmula 1](https://www.formula1.com).
+- [Formula 1® - The Official F1® Website](https://www.formula1.com).
 - [Federación Internacional de Automovilismo](https://www.fia.com/).
 - [SkySports F1](https://www.skysports.com/f1/drivers-teams).
 - [FOX SPORTS](https://www.foxsports.com.au/motorsport/formula-one/f1-2024-talking-points-and-analysis-from-dutch-grand-prix-lando-norris-banishes-demons-in-title-statement-max-verstappen-reality-oscar-piastri-finish-explained/news-story/b0b55b788e2d81f8ab8041415b92b09c).
