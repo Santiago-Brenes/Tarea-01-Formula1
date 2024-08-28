@@ -10,7 +10,7 @@ Los circuitos varían en diseño y dificultad. Algunos son circuitos permanentes
 
 Cada fin de semana de carrera consta de prácticas libres, sesiones de clasificación y la carrera principal. Durante la clasificación, los pilotos compiten para determinar su posición de salida en la carrera. La carrera principal es una competición de alta velocidad que dura un número específico de vueltas alrededor del circuito.
 
-##### Diseño de los Fómula 1 de 2024:
+##### Diseño de los Fómula 1 2024:
 
 ![Diseño de los Fórmula 1 2024](https://pbs.twimg.com/media/GGaFwKbW4AAzhQU?format=jpg&name=large)
 
@@ -41,7 +41,7 @@ Los pilotos y equipos acumulan puntos en función de su posición final en la ca
 
 Desde la temporada 2019, se otorga un _**punto adicional**_ al piloto que registre la _**vuelta rápida de la carrera**_, siempre y cuando termine en el top 10 y no haya recibido sanciones durante la carrera. Si el piloto no cumple con estas condiciones, el punto adicional no será concedido.
 
-##### Calendario de Fórmula 1 2024:
+##### Calendario Fórmula 1 2024:
 
 <p align="center">
   <img src="https://pbs.twimg.com/media/F0RqWXfWAAAcl90?format=jpg&name=large" alt="Calendario de Fórmula 1 2024" width="400" heigth="400">
