@@ -17,7 +17,7 @@ La Fórmula 1 cuenta con diez equipos, cada uno compitiendo con dos pilotos. Est
 La Fórmula 1 tiene dos campeonatos principales: el Campeonato Mundial de Pilotos y el Campeonato Mundial de Constructores. El piloto y el equipo que acumulan la mayor cantidad de puntos al final de la temporada son declarados campeones mundiales.
 
 <p align="center">
-  <img src="img/f1_2024_lineup.jpg" alt="Pilotos de Fórmula 1 2024">
+  <img src="https://preview.redd.it/our-2024-grid-is-complete-v0-ws9zolabxp3c1.jpeg?width=1080&crop=smart&auto=webp&s=fccd922e4a70ca257cd5d21a219402e9a7edf0d4" alt="Pilotos de Fórmula 1 2024">
 </p>
 
 Los pilotos y equipos acumulan puntos en función de su posición final en la carrera. El sistema de puntuación asigna puntos a los primeros diez pilotos que cruzan la línea de meta, con más puntos otorgados al primer lugar.
