@@ -35,19 +35,19 @@ Asignación de puntos:
 - _Noveno clasificado:_ **2 pts**
 - _Décimo clasificado:_ **1 pto**
 
-Desde la temporada 2019, se otorga un _punto adicional_ al piloto que registre la vuelta rápida de la carrera, siempre y cuando termine en el top 10 y no haya recibido sanciones durante la carrera. Si el piloto no cumple con estas condiciones, el punto adicional no será concedido.
+Desde la temporada 2019, se otorga un _**punto adicional**_ al piloto que registre la _**vuelta rápida de la carrera**_, siempre y cuando termine en el top 10 y no haya recibido sanciones durante la carrera. Si el piloto no cumple con estas condiciones, el punto adicional no será concedido.
 
 <p align="center">
-  <img src="https://pbs.twimg.com/media/F0RqWXfWAAAcl90?format=jpg&name=large" alt="Calendario Fórmula 1 2024" width="500" heigth="400">
+  <img src="https://pbs.twimg.com/media/F0RqWXfWAAAcl90?format=jpg&name=large" alt="Calendario Fórmula 1 2024" width="400" heigth="400">
 </p>
 
-#### *Nuevas reglas introducidas para la temporada 2024.*
+#### *Nuevas reglas introducidas para la temporada 2024:*
 
 - [Regulaciones técnicas en 2024](https://www.formula1.com/en/results/2024/drivers)
 
 ### *Temporada 2024*
 
-_Información detallada sobre la posición actual de los pilotos y equipos en el campeonato mundial de Fórmula 1 luego del Gran Premio de Países Bajos 2024._
+_Información detallada sobre la posición actual de los pilotos y equipos en el campeonato mundial de Fórmula 1 luego del Gran Premio de Países Bajos 2024:_
 
 - [Posiciones de los pilotos después del Gran Premio de Países Bajos -](https://www.formula1.com/en/drivers) _Top 10:_
   
@@ -75,7 +75,7 @@ _Información detallada sobre la posición actual de los pilotos y equipos en el
 9. Williams Racing - **4 pts**
 10. Kick Sauber - **0 pts**
 
- _Información de la vuelta más rápida de cada Gran Premio luego del Gran Premio de Países Bajos 2024._
+ _Información de la vuelta más rápida de cada Gran Premio luego del Gran Premio de Países Bajos 2024:_
 
 - [Gráfico de vueltas rápidas en 2024](https://www.formula1.com/en/results/2024/drivers)
  
@@ -91,8 +91,8 @@ La temporada 2024 sigue abierta, con McLaren como un serio contendiente, Red Bul
 
 ### Referencias
 
-- [Página oficial de la Fórmula 1](https://www.formula1.com)
-- [Federación Internacional de Automovilismo](https://www.fia.com/)
+- [Página oficial de la Fórmula 1](https://www.formula1.com).
+- [Federación Internacional de Automovilismo](https://www.fia.com/).
 - [SkySports F1](https://www.skysports.com/f1/drivers-teams).
-- [FOX SPORTS](https://www.foxsports.com.au/motorsport/formula-one/f1-2024-talking-points-and-analysis-from-dutch-grand-prix-lando-norris-banishes-demons-in-title-statement-max-verstappen-reality-oscar-piastri-finish-explained/news-story/b0b55b788e2d81f8ab8041415b92b09c)
-- [RBR Daily](https://www.instagram.com/rbr_daily/)
+- [FOX SPORTS](https://www.foxsports.com.au/motorsport/formula-one/f1-2024-talking-points-and-analysis-from-dutch-grand-prix-lando-norris-banishes-demons-in-title-statement-max-verstappen-reality-oscar-piastri-finish-explained/news-story/b0b55b788e2d81f8ab8041415b92b09c).
+- [RBR Daily](https://www.instagram.com/rbr_daily/).
