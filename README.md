@@ -97,7 +97,7 @@ _Información detallada sobre la posición actual de los pilotos y equipos en el
 
  _Información de la vuelta más rápida de cada Gran Premio luego del Gran Premio de Países Bajos 2024:_
 
-- [Gráfico de vueltas rápidas en 2024](https://www.formula1.com/en/results/2024/drivers)
+- [Gráfico de vueltas rápidas en 2024](https://www.formula1.com/en/results/2024/fastest-laps)
  
 #### *Resumen de la temporada 2024 luego del Gran Premio de Países Bajos*
 
