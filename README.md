@@ -37,7 +37,9 @@ Asignación de puntos:
 
 Desde la temporada 2019, se otorga un _punto adicional_ al piloto que registre la vuelta rápida de la carrera, siempre y cuando termine en el top 10 y no haya recibido sanciones durante la carrera. Si el piloto no cumple con estas condiciones, el punto adicional no será concedido.
 
-![Fórmula 1 Calendario 2024](https://pbs.twimg.com/media/F0RqWXfWAAAcl90?format=jpg&name=large)
+<p align="center">
+  <img src="https://pbs.twimg.com/media/F0RqWXfWAAAcl90?format=jpg&name=large" alt="Calendario Fórmula 1 2024" width="500" heigth="400">
+</p>
 
 #### *Nuevas reglas introducidas para la temporada 2024.*
 
